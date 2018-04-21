@@ -48,7 +48,7 @@ Notes on how to deploy to a live system coming soon!
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](github) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md] for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
@@ -64,4 +64,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-* Inspired buy David Allen's book "Getting Things Done".
+* Inspired by David Allen's book "Getting Things Done".
